@@ -6,7 +6,7 @@ Objetivo: Desenvolver o Saúde Conecta, um sistema integrado de saúde digital, 
 
 # Funcionamento do Sistema de Login:
 
-`Entre no link do site hospedado:`
+`Entre no link do site hospedado: https://global-solution-2-js-web.vercel.app/`
 
 Após executar o comando npm start e abrir o site no localhost, utilize as seguintes credenciais:
 
