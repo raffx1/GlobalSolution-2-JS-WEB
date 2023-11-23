@@ -16,3 +16,7 @@ Após executar o comando npm start e abrir o site no localhost, utilize as segui
 Em caso de erro nesta combinação, o login será malsucedido.
 
 Após um login bem-sucedido, o usuário será redirecionado para uma nova aba que exibirá nossa página sobre o projeto. Nesta página, o nome do usuário ("John Doe") e seu respectivo email ("johndoe2@gmail.com") devem aparecer no canto superior esquerdo. Ao rolar a página para baixo, um botão de logout estará disponível, permitindo ao usuário desconectar-se da conta e retornar à página de login.
+
+
+`Italo de Souza - RM551500
+Rafael Perussi Caczan - RM93092 `
