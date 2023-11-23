@@ -8,7 +8,7 @@ Objetivo: Desenvolver o Saúde Conecta, um sistema integrado de saúde digital, 
 
 `Entre no link do site hospedado: https://global-solution-2-js-web.vercel.app/`
 
-Após executar o comando npm start e abrir o site no localhost, utilize as seguintes credenciais:
+Após entrar no site, utilize as seguintes credenciais:
 
 `Email: johndoe2@gmail.com`
 `Senha: doe2004`
