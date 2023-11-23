@@ -40,7 +40,7 @@ function Login() {
         if (formulario.password === "" || formulario.password === null) {
             alert("Por favor, preencha o campo de senha")
         }
-        axios.get("http://localhost:5000/Users")
+        axios.get("https://gs-database.vercel.app/Users")
             .then(res => {
                 res.data.map(user => {
                     if (user.email === formulario.email) {

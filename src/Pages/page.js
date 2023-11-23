@@ -16,7 +16,7 @@ function Page() {
         navegar('/')
     }
     
-    axios.get('http://localhost:5000/Users')
+    axios.get('https://gs-database.vercel.app/Users')
         .then(result => {
             result.data.map(user => {
                 const textnome = document.querySelector('#nome')
