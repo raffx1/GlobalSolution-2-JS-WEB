@@ -20,4 +20,4 @@ Após um login bem-sucedido, o usuário será redirecionado para uma nova aba qu
 
 # Repositorio
 
-`https://github.com/raffx1/GlobalSolution-2-JS-WEB`
+`https://github.com/ryuzeen/GlobalSolution-2-JS-WEB`
